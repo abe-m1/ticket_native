@@ -5,6 +5,7 @@ import { View } from 'react-native'
 import { createStore, applyMiddleware } from 'redux'
 import reducers from './reducers'
 import Router from './Router'
+import LoginForm from './components/LoginForm'
 
 class App extends Component{
     componentWillMount(){

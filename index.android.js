@@ -2,4 +2,4 @@ import { AppRegistry } from 'react-native';
 import App from './src/App'
 
 
-AppRegistry.registerComponent('ticket', () => App);
+AppRegistry.registerComponent('ticket_native', () => App);
