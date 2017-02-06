@@ -21,11 +21,5 @@ render(){
         )
     }
 }
-//
  
 export default App
-
-//need to provide Provider with an instance of a redux store
-
-//The provider tag is what makes sure all the connect tags can get access to the store
-//grab our redux state and then pass it off to individual components
